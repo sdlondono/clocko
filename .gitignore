@@ -75,4 +75,7 @@ yarn-error.log
 web-build/
 dist/
 
+.env
+.env.*
+google-services.json.*
 # @end expo-cli
