@@ -78,4 +78,5 @@ dist/
 .env
 .env.*
 google-services.json.*
+google-services.json
 # @end expo-cli
